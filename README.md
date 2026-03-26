@@ -35,7 +35,12 @@ $$V_G =
 0&0&\dots&0&1
 }$$
 
+Ces matrices $Q_G$ et $V_G$ permettent de réaliser le changement de base approprié.
+
 $$\overline{\overline A} = V_G^{-1}Q_G^{-1}AQ_G V_G$$
+
+Dans cette nouvelle base, la matrice $\overline{\overline A}$ et le vecteur $\overline{\overline B}$
+prennent une forme qui facilite l'expression du retour d'éta.
 
 $$\overline{\overline A} =
 \pmatrix{
