@@ -10,6 +10,6 @@ Le retour d'état consiste à générer une commande $u$ de la forme $u = e-Kx$ 
 que le système respecte une certaine dynamique.
 
 Sous réserve que la matrice ci-dessous soit de rang $n$ où n est l'ordre du système, il est en effet 
-possible de modifier tous les pôles du système qui sont aussi les racines du polynôme caractéristique $|pI-A|$.
+possible de modifier tous les pôles du système qui sont pour le système intial les racines du polynôme caractéristique $|pI-A|$.
 
 $$Q_G=[B \quad AB  \quad A^2B  \quad ...  \quad A^{n-1}B]$$
