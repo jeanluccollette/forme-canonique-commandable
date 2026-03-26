@@ -13,3 +13,5 @@ Sous réserve que la matrice ci-dessous soit de rang $n$ où n est l'ordre du sy
 possible de modifier tous les pôles du système qui sont pour le système intial les racines du polynôme caractéristique $|pI-A|$.
 
 $$Q_G=[B \quad AB  \quad A^2B  \quad ...  \quad A^{n-1}B]$$
+
+Avec le retour d'état, le polynôme caractéristique devient $|pI-(A-BK)|$.
