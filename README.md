@@ -18,7 +18,7 @@ Avec le retour d'état, le polynôme caractéristique devient $|pI-(A-BK)|$.
 
 ## Changement de base
 
-
+$$\overline{\overline A} = V_G^{-1}Q_G^{-1}AQ_G V_G$$
 
 ## Notebook avec un exemple
 
