@@ -46,6 +46,15 @@ $$\overline{\overline A} =
 0&0&\dots&1&0
 }$$
 
+$$\overline{\overline B} =
+\pmatrix{
+1\\
+0\\
+0\\
+\vdots\\
+0
+}$$
+
 ## Notebook avec un exemple
 
 C'est [ici](forme_cano_comm.ipynb).
