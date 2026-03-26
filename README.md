@@ -27,7 +27,7 @@ $$V_G =
 1&a_{n-1}&\dots&a_2&a_1\\
 0&1&\dots&a_3&a_2\\
 \vdots&\vdots&\vdots&\vdots&\vdots\\
-0&0&\dots&1&a_1\\
+0&0&\dots&1&a_{n-1}\\
 0&0&\dots&0&1
 }$$
 
