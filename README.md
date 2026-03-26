@@ -73,6 +73,8 @@ $$\overline{\overline A} - \overline{\overline B}\overline{\overline K}=
 
 $$\left|pI-(\overline{\overline A}-\overline{\overline B}\overline{\overline K})\right| = p^n + \sum_{k=0}^{n-1}\alpha_kp^k$$
 
+$$K=\overline{\overline K}V_G^{-1}Q_G^{-1}$$
+
 ## Notebook avec un exemple
 
 C'est [ici](forme_cano_comm.ipynb).
