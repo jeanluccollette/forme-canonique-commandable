@@ -15,3 +15,7 @@ possible de modifier tous les pôles du système qui sont pour le système intia
 $$Q_G=[B \quad AB  \quad A^2B  \quad ...  \quad A^{n-1}B]$$
 
 Avec le retour d'état, le polynôme caractéristique devient $|pI-(A-BK)|$.
+
+## Notebook avec un exemple
+
+C'est [ici](forme_cano_comm.ipynb).
