@@ -24,11 +24,11 @@ $$Q_G=[B \quad AB  \quad A^2B  \quad \dots \quad A^{n-1}B]$$
 
 $$V_G =
 \pmatrix{
-1&a_{n-1}&0&\dots&a_2&a_1\\
+1&a_{n-1}&\dots&a_2&a_1\\
 0&1&\dots&a_3&a_2\\
-\vdots&\vdots&\vdots&\vdots&\vdots&\vdots\\
-0&0&0&\dots&1&a_1\\
-0&0&0&\dots&0&1
+\vdots&\vdots&\vdots&\vdots&\vdots\\
+0&0&\dots&1&a_1\\
+0&0&\dots&0&1
 }$$
 
 $$\overline{\overline A} = V_G^{-1}Q_G^{-1}AQ_G V_G$$
