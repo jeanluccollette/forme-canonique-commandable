@@ -60,6 +60,17 @@ $$\overline{\overline B} =
 0
 }$$
 
+En effet
+
+$$\overline{\overline A} - \overline{\overline B}\overline{\overline K}=
+\pmatrix{
+-a_{n-1}-\overline{\overline k}_{n-1}&-a_{n-2}&\dots&-a_1&-a_0\\
+1&0&\dots&0&0\\
+0&1&\vdots&0&0\\
+\vdots&\vdots&\vdots&\vdots&\vdots\\
+0&0&\dots&1&0
+}$$
+
 
 
 ## Notebook avec un exemple
