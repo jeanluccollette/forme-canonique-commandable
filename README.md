@@ -43,7 +43,7 @@ $$\overline{\overline A} =
 1&0&\dots&0&0\\
 0&1&\vdots&0&0\\
 \vdots&\vdots&\vdots&\vdots&\vdots\\
-0&0&\dots&0&1
+0&0&\dots&1&0
 }$$
 
 ## Notebook avec un exemple
