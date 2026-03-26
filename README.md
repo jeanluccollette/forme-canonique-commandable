@@ -18,6 +18,8 @@ Avec le retour d'état, le polynôme caractéristique devient $|pI-(A-BK)|$.
 
 ## Changement de base
 
+$$|pI-A| = p^n + \sum_{k=0}^{n-1}a_kp^k$$
+
 $$Q_G=[B \quad AB  \quad A^2B  \quad ...  \quad A^{n-1}B]$$
 
 $$V_G =
