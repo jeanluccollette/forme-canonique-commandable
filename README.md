@@ -71,7 +71,12 @@ $$\overline{\overline A} - \overline{\overline B}\overline{\overline K}=
 0&0&\dots&1&0
 }$$
 
+Le système avec retour d'état reste sous forme canonique, avec l'expression directe des coefficients
+du nouveau polynôme caractéristique.
+
 $$\left|pI-(\overline{\overline A}-\overline{\overline B}\overline{\overline K})\right| = p^n + \sum_{k=0}^{n-1}\alpha_kp^k$$
+
+Ainsi, $\overline{\overline k}_{m} = \alpha_m - a_m$ pour $0 \leq m \leq n-1$
 
 $$K=\overline{\overline K}V_G^{-1}Q_G^{-1}$$
 
