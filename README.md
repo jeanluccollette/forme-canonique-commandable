@@ -37,6 +37,15 @@ $$V_G =
 
 $$\overline{\overline A} = V_G^{-1}Q_G^{-1}AQ_G V_G$$
 
+$$\overline{\overline A} =
+\pmatrix{
+-a_{n-1}&-a_{n-2}&\dots&-a_1&-a_0\\
+1&0&\dots&0&0\\
+0&1&\vdots&0&0\\
+\vdots&\vdots&\vdots&\vdots&\vdots\\
+0&0&\dots&0&1
+}$$
+
 ## Notebook avec un exemple
 
 C'est [ici](forme_cano_comm.ipynb).
