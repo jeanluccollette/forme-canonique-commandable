@@ -40,7 +40,7 @@ Ces matrices $Q_G$ et $V_G$ permettent de réaliser le changement de base approp
 $$\overline{\overline A} = V_G^{-1}Q_G^{-1}AQ_G V_G$$
 
 Dans cette nouvelle base, la matrice $\overline{\overline A}$ et le vecteur $\overline{\overline B}$
-prennent une forme qui facilite l'expression du retour d'éta.
+prennent une forme qui facilite l'expression du retour d'état.
 
 $$\overline{\overline A} =
 \pmatrix{
@@ -59,6 +59,8 @@ $$\overline{\overline B} =
 \vdots\\
 0
 }$$
+
+
 
 ## Notebook avec un exemple
 
