@@ -71,7 +71,7 @@ $$\overline{\overline A} - \overline{\overline B}\overline{\overline K}=
 0&0&\dots&1&0
 }$$
 
-$$|pI-(\overline{\overline A}-\overline{\overline A}\overline{\overline A})| = p^n + \sum_{k=0}^{n-1}\alpha_kp^k$$
+$$\left|pI-(\overline{\overline A}-\overline{\overline B}\overline{\overline K})\right| = p^n + \sum_{k=0}^{n-1}\alpha_kp^k$$
 
 ## Notebook avec un exemple
 
