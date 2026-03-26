@@ -78,6 +78,8 @@ $$\left|pI-(\overline{\overline A}-\overline{\overline B}\overline{\overline K})
 
 Ainsi, $\overline{\overline k}_{m} = \alpha_m - a_m$ pour $0 \leq m \leq n-1$
 
+Le retour à la base initiale donne les coefficients $k_m$ recherchés.
+
 $$K=\overline{\overline K}V_G^{-1}Q_G^{-1}$$
 
 ## Notebook avec un exemple
