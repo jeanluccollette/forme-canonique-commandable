@@ -18,7 +18,8 @@ Avec le retour d'état, le polynôme caractéristique devient $|pI-(A-BK)|$.
 
 ## Changement de base
 
-Le polynôme caractérisque du système initial est la seule donnée dont on a besoin.
+Le polynôme caractérisque du système initial est la seule donnée dont on a besoin pour obtenir
+une représentation du système sous la forme canonique commandable.
 
 $$|pI-A| = p^n + \sum_{k=0}^{n-1}a_kp^k$$
 
