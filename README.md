@@ -2,7 +2,7 @@
 
 ## Formulation du retour d'état
 
-Le système initial est associé à l'équation d'évolution ci-dessous, avec une commande scalaire $u$.
+Le système initial est associé à l'équation d'évolution ci-dessous, avec un vecteur d'état $x$ et une commande scalaire $u$.
 
 $$\dfrac{dx}{dt} = Ax + Bu$$
 
