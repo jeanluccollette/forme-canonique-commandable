@@ -80,7 +80,7 @@ du nouveau polynôme caractéristique.
 
 $$\left|pI-(\overline{\overline A}-\overline{\overline B}\overline{\overline K})\right| = p^n + \sum_{k=0}^{n-1}\alpha_kp^k$$
 
-Ainsi, $\overline{\overline k}_{m} = \alpha_m - a_m$ pour $0 \leq m \leq n-1$
+En conséquence, $\overline{\overline k}_{m} = \alpha_m - a_m$ pour $0 \leq m \leq n-1$
 
 Le retour à la base initiale donne les coefficients $k_m$ recherchés.
 
