@@ -64,7 +64,7 @@ $$\overline{\overline B} =
 0
 }$$
 
-En effet
+Le système avec retour d'état reste sous forme canonique commandable.
 
 $$\overline{\overline A} - \overline{\overline B}\overline{\overline K}=
 \pmatrix{
@@ -75,7 +75,7 @@ $$\overline{\overline A} - \overline{\overline B}\overline{\overline K}=
 0&0&\dots&1&0
 }$$
 
-Le système avec retour d'état reste sous forme canonique, avec l'expression directe des coefficients
+Ainsi, la première ligne de la matrice $\overline{\overline A}-\overline{\overline B}\overline{\overline K}$ correspond aux coefficients
 du nouveau polynôme caractéristique.
 
 $$\left|pI-(\overline{\overline A}-\overline{\overline B}\overline{\overline K})\right| = p^n + \sum_{k=0}^{n-1}\alpha_kp^k$$
